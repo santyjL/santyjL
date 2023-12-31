@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Quien soy
+mi nombre es *santiago* vivo en nicaragua soy estudiante de secundaria con 13 nacido del 2010 que lleva un año estudiando programacion con *python* de manera *autodidacta* , y unos meses estudiando tambien de manera autodidacta con *arduino* , soy un apasionada a las nuevas tecnologias y me gusta mucho aprender de todo.
+
