@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Quien soy
-mi nombre es *santiago* vivo en nicaragua soy estudiante de secundaria con 13 nacido del 2010 que lleva un año estudiando programacion con *python* de manera *autodidacta* , y unos meses estudiando tambien de manera autodidacta con *arduino* , soy un apasionada a las nuevas tecnologias y me gusta mucho aprender de todo.
+me llamo __santiago__, vivo en nicaragua/managua , soy estudiante de secundaria de 14 años de edad, nacido del año 2010.
+
+llevo un año estudiando programacion con __python__ de manera __autodidacta__ , y unos meses estudiando tambien de manera __autodidacta__ con __arduino__ , soy un apasionada a las nuevas tecnologias y me gusta mucho aprender de todo.
 
