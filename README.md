@@ -21,8 +21,11 @@ vivo en nicaragua/managua , soy estudiante de secundaria de 14 años de edad, na
 llevo un año estudiando programacion con **python** de manera __autodidacta__ , y unos meses estudiando tambien de manera __autodidacta__ con __arduino__ , soy un apasionada a las nuevas tecnologias y me gusta mucho aprender de todo.
 
 ## Tecnologias
-- Python - https://www.python.org/
-- fastApi - https://fastapi.tiangolo.com/
-- Reflex - https://reflex.dev/
-- Arduino - https://www.arduino.cc/
-- git - https://git-scm.com/
+
+> - Python - https://www.python.org/
+> - fastApi - https://fastapi.tiangolo.com/
+> - Reflex - https://reflex.dev/
+> - Arduino - https://www.arduino.cc/
+> - git - https://git-scm.com/
+
+
