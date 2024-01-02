@@ -22,7 +22,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-> - Python - https://www.python.org/
+> - Python(https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHistoria_de_Python&psig=AOvVaw3yvYqIm-Yd8ZxPqDXI8fTb&ust=1704246037025000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCN2a_JvYMDFQAAAAAdAAAAABAD) - https://www.python.org/
 > - fastApi - https://fastapi.tiangolo.com/
 > - Reflex - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
