@@ -8,8 +8,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 ## Tecnologias
 
 [![portfolio](https://www.python.org/static/img/python-logo.png)](https://katherineoelsner.com/)
-
-> - fastApi(aprendiendo) - https://fastapi.tiangolo.com/
+[![portfolio](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)](https://fastapi.tiangolo.com/)
 > - Reflex(aprendiendo) - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
 > - git - https://git-scm.com/
