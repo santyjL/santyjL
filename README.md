@@ -13,6 +13,6 @@ llevo un año estudiando programacion con __python__ de manera __autodidacta__ ,
 
 ### FUTURAS TECNOLOGIAS Y APRENDIENDO
 [![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge&logo=FastApi&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-redblack?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
