@@ -7,7 +7,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge&logo=FastApi&logoColor=white&labelColor=101010)]()
 [![Reflex](https://img.shields.io/badge/Reflex-purple?style=for-the-badge&logo=Reflex&logoColor=white&labelColor=101010)]()
 [![Arduino](https://img.shields.io/badge/Arduino-skyblue?style=for-the-badge&logo=Arduinoi&logoColor=white&labelColor=101010)]()
