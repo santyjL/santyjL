@@ -7,7 +7,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-[![portfolio](https://github.com/santyjL/santyjL/assets/68027908/b811bb5a-5a9a-4268-8326-f803c25b29ec)
+![portfolio](https://github.com/santyjL/santyjL/assets/68027908/b811bb5a-5a9a-4268-8326-f803c25b29ec)
 
 > - fastApi(aprendiendo) - https://fastapi.tiangolo.com/
 > - Reflex(aprendiendo) - https://reflex.dev/
