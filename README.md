@@ -7,7 +7,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-[![MIT License]([https://img.shields.io/badge/License-MIT-green.svg](https://www.python.org/)
+[![MIT License]([https://img.shields.io/badge/License-MIT-green.svg])(https://www.python.org/)
 > - fastApi(aprendiendo) - https://fastapi.tiangolo.com/
 > - Reflex(aprendiendo) - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
