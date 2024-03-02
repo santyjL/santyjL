@@ -8,8 +8,7 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 ## Tecnologias
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-[![FASTAPI](https://gitlab.com/uploads/-/system/project/avatar/38086930/fastapi.ico?width=48)](https://fastapi.tiangolo.com/)
+[![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 > - Reflex(aprendiendo) - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
 > - git - https://git-scm.com/
