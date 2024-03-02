@@ -7,8 +7,8 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-[![portfolio](![image](https://github.com/santyjL/santyjL/assets/68027908/de1deaf9-0c7d-4a7e-9dcb-73f3574a4bd7)
-)
+[![portfolio](https://github.com/santyjL/santyjL/assets/68027908/b811bb5a-5a9a-4268-8326-f803c25b29ec)
+
 > - fastApi(aprendiendo) - https://fastapi.tiangolo.com/
 > - Reflex(aprendiendo) - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
