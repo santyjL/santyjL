@@ -7,8 +7,9 @@ llevo un año estudiando programacion con **python** de manera __autodidacta__ ,
 
 ## Tecnologias
 
-[![portfolio](https://s.cafebazaar.ir/images/icons/Python.Language_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize)](https://katherineoelsner.com/)
-[![portfolio](https://gitlab.com/uploads/-/system/project/avatar/38086930/fastapi.ico?width=48)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+[![FASTAPI](https://gitlab.com/uploads/-/system/project/avatar/38086930/fastapi.ico?width=48)](https://fastapi.tiangolo.com/)
 > - Reflex(aprendiendo) - https://reflex.dev/
 > - Arduino - https://www.arduino.cc/
 > - git - https://git-scm.com/
