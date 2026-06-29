@@ -1,12 +1,12 @@
 # Hola Mundo👋 , Me Llamo santiago 😁
 
 ## SOBRE MI
-Soy estudiante de secundaria de 15 años de edad, nacido en el año 2010.
-llevo más de 2 años estudiando programacion con __python__ de manera __autodidacta__ como también 
+Soy estudiante de secundaria de 16 años de edad, nacido en el 2010.
+llevo más de 3 años estudiando programacion con __python__ de manera __autodidacta__ como también 
 otras tecnologicas.
 
 Soy un apasionado a nuevas tecnologias, fascinandome por cualquier idea inovadora;
-me considero una persona muy amigable, sociable, comunicativa,capaz, perpicaz,
+me considero una persona muy amigable, sociable, comunicativa, capaz, perpicaz,
 creativa y sobre todo __curioso y activo__.
 
 > No puedes conectar los puntos mirando hacia adelante;
@@ -22,7 +22,8 @@ creativa y sobre todo __curioso y activo__.
 [![Arduino](https://img.shields.io/badge/Arduino-skyblue?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 </br>
-[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-redblack?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
 [![Json](https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/bash-orange?style=for-the-badge&logo=shell&logoColor=white&labelColor=101010)]()
 
@@ -32,11 +33,11 @@ import time
 tecnologias: set = {
                 "Python","MicroPython", "Reflex",
                 "Github", "Arduino", "Git",
-                "CSS", "Json", "Bash"
+                "CSS", "Json", "Bash", "Docker"
                 }
 
 tecnologias_principales: set = {
-                  "Python", "Reflex", "Arduino",
+                  "Python", "Reflex", "CSS",
                   "Git", "Github"
                   }
 
@@ -66,7 +67,6 @@ for tecnologia in tecnologias:
 [![FastApi](https://img.shields.io/badge/FastApi-green?style=for-the-badge&logo=FastApi&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()
 </br>
-[![HTML](https://img.shields.io/badge/HTML-redblack?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![javaScript](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 
 
